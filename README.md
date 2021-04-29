@@ -1,7 +1,3 @@
-# 算法题库
+# 算法与数据结构复习
 
-
-
-**Solution**文件夹内为洛谷、Codeforces等题解。（P开头为洛谷）
-
-**Template**文件夹内为板子。
+如果需要访问文档，请用Wolai访问https://www.wolai.com/9NEkACiax8vXgoYMBP1J35。
